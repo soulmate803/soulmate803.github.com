@@ -121,7 +121,7 @@ a:focus {
   display: table;
   width: 100%;
   height: auto;
-  padding: 100px 0;
+  padding: 140px 0 60px;
   text-align: center;
   color: white;
   background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
@@ -220,7 +220,7 @@ a:focus {
 .content-section {
   padding-top: 100px;
 }
-.download-section {
+.Blog-section {
   width: 100%;
   padding: 50px 0;
   color: white;
@@ -240,7 +240,7 @@ a:focus {
   .content-section {
     padding-top: 250px;
   }
-  .download-section {
+  .Blog-section {
     padding: 100px 0;
   }
   #map {
